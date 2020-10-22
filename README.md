@@ -1,5 +1,7 @@
 # Deno 1.4.4
 
+## Ryan Dahl - node 
+
 ## A secure runtime for JavaScript and TypeScript.
 
 - Deno is a simple, modern and secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust.
@@ -8,15 +10,11 @@
 - Has built-in utils like a dependency inspector (deno info) and a code formatter (deno fmt).
 - Has a set of reviewed (audited) standard modules that are guaranteed to work with Deno: deno.land/std
 
-## Node.js vs Deno
-
-DeNO wILl MAke NodE jS ObsolEtE!!!!11!
-
-nope
-
 ## Deno REPL
 
 Run `deno` in console to open REPL env. Just like with node.
+
+## Local file => flags
 
 ## Run modules hosted on a server
 
@@ -47,3 +45,9 @@ add PATH:
 ## Simple server in Deno
 
 `deno run server.ts`
+
+## Node.js vs Deno
+
+DeNO wILl MAke NodE jS ObsolEtE!!!!11!
+
+nope
