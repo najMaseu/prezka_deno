@@ -7,7 +7,7 @@ const wasmExports = wasmInstance.exports;
 type SquareFunctionType = (num: number) => number
 
 const square = wasmExports.square as SquareFunctionType
-console.log(square(7))
+console.log(square(9))
 
 
-  
+//   console.log(Deno)
